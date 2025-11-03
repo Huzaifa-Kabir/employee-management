@@ -1,0 +1,12 @@
+{
+    "001": {
+        "name": "Huzaifa Kabir",
+        "salary": 80000.0,
+        "attendance": {}
+    },
+    "002": {
+        "name": "Hanzala Kabir",
+        "salary": 40000.0,
+        "attendance": {}
+    }
+}
